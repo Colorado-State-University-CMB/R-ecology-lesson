@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis and Visualization in R for Ecologists"
+title: "CM515 uses and expands upon 'Data Analysis and Visualization in R for Ecologists'"
 author: François Michonneau & Auriel Fournier (Lesson Maintainers)
 site: sandpaper::sandpaper_site
 ---
